@@ -1,6 +1,6 @@
 import time
 import random
-from _pyrepl.commands import end
+
 
 best_time = None
 for _ in range(5):
